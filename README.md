@@ -30,9 +30,9 @@ A data-driven exploration of the XRP-USDT market using technical indicators, fea
 
 ## 🧱 Project Structure
 
-crypto-xrp-analysis/></br>
+crypto-xrp-analysis/</br>
 ├── 📂 data/</br>
-│   ├── 📁 raw/               # Original raw data files</br>
+│   ├── 📁 raw/ </tab> # Original raw data files</br>
 │   ├── 📁 combined/          # Merged and aggregated data files</br>
 │   └── 📁 cleaned/           # ETL output and feature-engineered datasets</br>
 ├── 📔 notebooks/</br>
