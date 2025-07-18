@@ -32,8 +32,8 @@ A data-driven exploration of the XRP-USDT market using technical indicators, fea
 
 crypto-xrp-analysis/</br>
 ├── 📂 data/</br>
-│   ├── 📁 raw/                # Original raw data files</br>
-│   ├── 📁 combined/           # Merged and aggregated data files</br>
+│   ├── 📁 raw/````````````````# Original raw data files</br>
+│   ├── 📁 combined/```````````# Merged and aggregated data files</br>
 │   └── 📁 cleaned/            # ETL output and feature-engineered datasets</br>
 ├── 📔 notebooks/</br>
 │   ├── 📘 [01_xrpusdt_data_etl.ipynb](notebooks/01_xrpusdt_data_etl.ipynb) — Data collection and ETL</br>
