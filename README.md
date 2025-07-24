@@ -32,19 +32,21 @@ Welcome to Crypto XRP Analysis — a project aimed at uncovering meaningful insi
 
 ## Project Structure
 
-crypto-xrp-analysis/</br>
-|── data/</br>
-│   ├── raw/ — Original raw data files</br>
-│   ├── combined/ — Merged and aggregated data files</br>
-│   └── cleaned/ — ETL output and feature-engineered datasets</br>
-├── notebooks/</br>
-│   ├──  [01_xrpusdt_data_etl.ipynb](notebooks/01_xrpusdt_data_etl.ipynb) — Data collection and ETL</br>
-│   ├──  [02_exploratory_data_analysis.ipynb](notebooks/02_exploratory_data_analysis.ipynb) — Initial data exploration & visualization</br>
-|   ├──  [03_feature_engineering.ipynb](notebooks/03_feature_engineering.ipynb) — Technical indicators & dataset enrichment</br>
-│   └──  [04_forecasting_and_prediction_models.ipynb](notebooks/04_forecasting_and_prediction_models.ipynb) — Predictive modelling, model evaluation & visualizations </br>
-├── .gitignore — Git config to ignore unnecessary files</br>
-├── LICENSE — License info for usage and distribution</br>
-└── README.md — Project summary and progress tracker</br>
+### 📁 `data/`
+- `raw/` – Original raw data files.
+- `combined/` – Aggregated files after merge.
+- `cleaned/` – ETL output & features ready for modeling.
+
+### 📁 `notebooks/`
+- [`01_xrpusdt_data_etl.ipynb`](notebooks/01_xrpusdt_data_etl.ipynb) – Data collection & ETL process.
+- [`02_exploratory_data_analysis.ipynb`](notebooks/02_exploratory_data_analysis.ipynb) – Initial exploration.
+- [`03_feature_engineering.ipynb`](notebooks/03_feature_engineering.ipynb) – Technical indicators enrichment.
+- [`04_forecasting_and_prediction_models.ipynb`](notebooks/04_forecasting_and_prediction_models.ipynb) – Modeling & evaluation.
+
+### 📄 Configuration & Metadata
+- `.gitignore` – Ignore patterns for version control.
+- `LICENSE` – Usage and redistribution terms.
+- `README.md` – Summary and project log.
 
 ## Contributions
 
