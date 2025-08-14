@@ -1,6 +1,6 @@
 # XRP Crypto Analysis
 
-Welcome to Crypto XRP Analysis — a project aimed at uncovering meaningful insights about the XRP cryptocurrency through data-driven techniques. This repository contains tools and notebooks that help analyze XRP price trends, correlations, and performance using Python.
+Welcome to Crypto XRP Analysis - a project aimed at uncovering meaningful insights about the XRP cryptocurrency through data-driven techniques. This repository contains tools and notebooks that help analyze XRP price trends, correlations, and performance using Python.
 
 ## Work Completed
 
